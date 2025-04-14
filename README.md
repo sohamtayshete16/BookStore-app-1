@@ -11,12 +11,13 @@ Follow the below steps to run the project:
 ```
 >>> Stepup firebase app and configure the environment
 
-VITE_API_KEY="AIzaSyCXvDIC4MPrkaMdeg_O2iij88wLpfj3qBA"
-VITE_Auth_Domain="book-store-mern-app.firebaseapp.com"
-VITE_PROJECT_ID="book-store-mern-app"
-VITE_STORAGE_BUCKET="book-store-mern-app.appspot.com"
-VITE_MESSAGING_SENDERID= "205632822247"
-VITE_APPID="1:205632822247:web:b0db0ec66bf6de0bbb3b42"
+VITE_API_KEY="AIzaSyCWmEI5uBbqRzmOQe126GHZmFSuOtE9edE"
+VITE_Auth_Domain="book-store-mern-appp.firebaseapp.com"
+VITE_PROJECT_ID="book-store-mern-appp"
+VITE_STORAGE_BUCKET="book-store-mern-appp.firebasestorage.app"
+VITE_MESSAGING_SENDERID= "492127548277"
+VITE_APPID="1:492127548277:web:4c5ca79da5cf39115ed93c"
+VITE_API_URL=http://localhost:5000
 ```
 + Then run `` npm install `` commend to install node dependencies.
 - Finally, to run the project, use ``npm run dev`` command.
